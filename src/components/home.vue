@@ -41,7 +41,7 @@
     </li>
       <li>
       <img src="../assets/image/icon_com.png" alt="">
-      <p>已经工作三年了</p>
+      <p>已经工作七年了</p>
     </li>
       <li>
       <img src="../assets/image/icon_study.png" alt="">
